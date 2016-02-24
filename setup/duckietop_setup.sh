@@ -19,10 +19,5 @@ sudo apt-get install python-rosinstall
 
 # Install latest version of git
 sudo apt-add-repository ppa:git-core/ppa
-sudo apt-get update
 sudo apt-get install git
 
-# Checkout duckietown/Software repo from github
-# mkdir -p ~/duckietown
-# cd ~/duckietown
-# git clone https://github.com/duckietown/Software.git .
