@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [340.4539644571139, 0.0, 324.520250165655, 0.0, 344.91085175329226, 237.26808425156793,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: karen/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.2967265545005066, 0.07310015295072755, 0.0016485383420610953, 1.1800571907533896e-05,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [247.01876831054688, 0.0, 323.17792771317545, 0.0, 0.0, 284.60968017578125,
+    237.21415229798367, 0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
