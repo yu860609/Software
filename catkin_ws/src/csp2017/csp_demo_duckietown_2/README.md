@@ -1,1 +1,0 @@
-# csp_demo_duckietown
